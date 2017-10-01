@@ -97,3 +97,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.xml
+*.iml
+image/split_icon.png
